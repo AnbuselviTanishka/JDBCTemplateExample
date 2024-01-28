@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+
 <h2>Spring MVC Create, Read, Update and Delete (CRUD) Example</h2>	
 <form action="create" method="post">
 <pre>
